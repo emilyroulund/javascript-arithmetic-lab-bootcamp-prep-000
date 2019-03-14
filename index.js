@@ -32,4 +32,4 @@ function makeInt(n){
 function preserveDecimal (n){
   return parseFloat (n);
 }
-
+//float accepts only a single argument, the thing to be parsed
